@@ -1038,6 +1038,10 @@ p {
     h5{
         font-size: 21px !important;
     }
+    .news-abs p{
+        font-size:12px !important;
+        line-height: 13px;
+    }
     .hamburger {
         display: flex !important;
         width: 40px;
